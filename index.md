@@ -2,14 +2,19 @@
 <img src="https://raw.githubusercontent.com/MirunaRosca/mirunarosca.github.io/main/MirunaRosca.jpeg" align="right" width="220" height="200" />
 
 
+
 I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania and I have obtained my Phd in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon](http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle/).
 
-**Phd Thesis:** 
-[On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
 
 **Contact:** 
 mirunarosca 'at' gmail 'dot' com ; mrosca 'at' bitdefender 'dot' com
 
+<a href="https://twitter.com/Miruna_Rosca"><img src="logo/twitter.png" width ="25"></a> 
+<a href="https://www.linkedin.com/in/miruna-rosca-042665206/"><img src="logo/linkedin" width="18"> </a>
+<a href=" https://github.com/MirunaRosca"><img src="logo/github.png" width="18"> </a>
+
+## Phd Thesis
+[On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
 
 ## Publications
 - [*MPSign: A Signature from Small-Secret Middle-Product Learning with Errors*](https://eprint.iacr.org/2020/198), with Shi Bai, Dipayan Das, Ryo Hiromasa, Amin Sakzad, Damien Stehlé, Ron Steinfeld and Zhenfei Zhang. In the proceedings of [PKC 2020](https://pkc.iacr.org/2020/).
