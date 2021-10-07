@@ -1,9 +1,12 @@
 # About Me
-I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I obtained my Phd in informatics in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon](http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle/).
+I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania and I have obtained my Phd in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon](http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle/).
 
-**Contact:** mirunarosca 'at' gmail 'dot' com ; mrosca 'at' bitdefender 'dot' com
+**Contact:** 
+- mirunarosca 'at' gmail 'dot' com 
+- mrosca 'at' bitdefender 'dot' com
 
-**Phd Thesis:** [On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
+**Phd Thesis:** 
+[On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
 
 ## Publications
 - [*MPSign: A Signature from Small-Secret Middle-Product Learning with Errors*](https://eprint.iacr.org/2020/198), with Shi Bai, Dipayan Das, Ryo Hiromasa, Amin Sakzad, Damien Stehlé, Ron Steinfeld and Zhenfei Zhang. In the proceedings of [PKC 2020](https://pkc.iacr.org/2020/).
@@ -43,10 +46,4 @@ Spring 2016: labs for the Cryptography and Security 3rd year undergraduate cours
 With my colleagues at Bitdefender, we wrote two introductory blogposts:
 - [**Homomorphic Encryption: a Toy Implementation in Python**](https://bit-ml.github.io/blog/post/homomorphic-encryption-toy-implementation-in-python/)
 - [**Private Set Intersection from Homomorphic Encryption: A Python Implementation**](https://bit-ml.github.io/blog/post/private-set-intersection-an-implementation-in-python/)
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MirunaRosca/mirunarosca.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 
