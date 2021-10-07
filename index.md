@@ -7,7 +7,8 @@ I am interested in **post-quantum cryptography** and **privacy preserving techno
 
 
 **Contact:** 
-mirunarosca 'at' gmail 'dot' com 
+- mirunarosca 'at' gmail 'dot' com 
+- mrosca 'at' bitdefender 'dot' com 
 
 <a href="https://twitter.com/Miruna_Rosca"><img src="twitter.jpg" width ="50"></a> 
 <a href="https://www.linkedin.com/in/miruna-rosca-042665206/"><img src="linkedin.jpg" width="35"> </a>
