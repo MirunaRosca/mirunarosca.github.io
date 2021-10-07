@@ -1,5 +1,5 @@
 # About Me
-<img src="https://github.com/MirunaRosca/mirunarosca.github.io/blob/main/MirunaRosca.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/MirunaRosca/mirunarosca.github.io/blob/main/MirunaRosca.jpeg" alt="MirunaRosca" width="200"/>
 
 I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania and I have obtained my Phd in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon](http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle/).
 
