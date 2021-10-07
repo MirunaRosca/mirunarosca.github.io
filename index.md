@@ -9,9 +9,9 @@ I am interested in **post-quantum cryptography** and **privacy preserving techno
 **Contact:** 
 mirunarosca 'at' gmail 'dot' com ; mrosca 'at' bitdefender 'dot' com
 
-<a href="https://twitter.com/Miruna_Rosca"><img src="logo/twitter.png" width ="25"></a> 
-<a href="https://www.linkedin.com/in/miruna-rosca-042665206/"><img src="logo/linkedin" width="18"> </a>
-<a href=" https://github.com/MirunaRosca"><img src="logo/github.png" width="18"> </a>
+<a href="https://twitter.com/Miruna_Rosca"><img src="twitter.jpg" width ="50"></a> 
+<a href="https://www.linkedin.com/in/miruna-rosca-042665206/"><img src="linkedin.jpg" width="35"> </a>
+<a href=" https://github.com/MirunaRosca"><img src="github.jpg" width="35"> </a>
 
 ## Phd Thesis
 [On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
