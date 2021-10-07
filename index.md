@@ -12,28 +12,37 @@ I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), R
 
 
 ## Talks at Conferences
-- June 2020 MPSign: A Signature from Small-Secret Middle-Product Learning with Errors, PKC 2020, virtual
-- Nov. 2019 Post-Quantum Cryptography in Bitdefender, SecITC 2019, Bucharest, Romania
-- Apr. 2018 On the Ring-LWE and Polynomial-LWE problems, EUROCRYPT 2018, Tel Aviv, Israel
-- Aug. 2017 Middle-Product Learning with Errors, CRYPTO 2017, Santa Barbara, USA
+- June 2020: MPSign: A Signature from Small-Secret Middle-Product Learning with Errors, PKC 2020, virtual
+- Nov. 2019: Post-Quantum Cryptography in Bitdefender, SecITC 2019, Bucharest, Romania
+- Apr. 2018: On the Ring-LWE and Polynomial-LWE problems, EUROCRYPT 2018, Tel Aviv, Israel
+- Aug. 2017: Middle-Product Learning with Errors, CRYPTO 2017, Santa Barbara, USA
 
 ## Talks at Seminars/ Workshops/ Summer schools
-- Jun. 2021 Private Set Intersection from Homomorphic Encryption: A Python Implementation, Cryptology and Security Seminar, University of Caen, France
-- Dec. 2019 MPSign: A Signature from Small-Secret Middle-Product Learning with Errors, AriC Seminar, Lyon, France
-- July 2019 On the Middle-Product Learning With Errors Problem and its applications in cryptography, AriC Seminar, Lyon, France
-- May 2018 Middle-Product Learning with Errors, LATCA@BiCi: LATtice Crypto and Algorithms, Bertinoro, Italy
-- Oct. 2017 Middle-Product Learning with Errors, Cryptography Seminar, University of Rennes, France
-- Oct. 2017 Middle-Product Learning with Errors, Cryptology and Security Seminar, University of Caen, France
-- Sept. 2017 Middle-Product Learning with Errors, The 25th National School on Algebra, Bucharest, Romania
-- Aug. 2015 The Ring Learning With Errors Problem, The 23rd National School on Algebra, Bucharest, Romania
-- May 2015 The Learning With Errors Problem, Workshop for Young Researchers in Mathematics, Constanta, Romania
-- Sept. 2014 Vertex Cover Algebras of Weighted Graphs, The 22nd National School on Algebra, Bucharest, Romania
+- Jun. 2021: Private Set Intersection from Homomorphic Encryption: A Python Implementation, Cryptology and Security Seminar, University of Caen, France
+- Dec. 2019: MPSign: A Signature from Small-Secret Middle-Product Learning with Errors, AriC Seminar, Lyon, France
+- July 2019: On the Middle-Product Learning With Errors Problem and its applications in cryptography, AriC Seminar, Lyon, France
+- May 2018: Middle-Product Learning with Errors, LATCA@BiCi: LATtice Crypto and Algorithms, Bertinoro, Italy
+- Oct. 2017: Middle-Product Learning with Errors, Cryptography Seminar, University of Rennes, France
+- Oct. 2017: Middle-Product Learning with Errors, Cryptology and Security Seminar, University of Caen, France
+- Sept. 2017: Middle-Product Learning with Errors, The 25th National School on Algebra, Bucharest, Romania
+- Aug. 2015: The Ring Learning With Errors Problem, The 23rd National School on Algebra, Bucharest, Romania
+- May 2015: The Learning With Errors Problem, Workshop for Young Researchers in Mathematics, Constanta, Romania
+- Sept. 2014: Vertex Cover Algebras of Weighted Graphs, The 22nd National School on Algebra, Bucharest, Romania
 
 ## Research Visits
-Jan. 2018 Faculty of Information Technology, Monash University, Melbourne, Australia: two weeks research visit hosted by Ron Steinfeld and Amin Sakzad
+Jan. 2018: two weeks research visit hosted by Ron Steinfeld and Amin Sakzad, Faculty of Information Technology, Monash University, Melbourne, Australia: 
 
+## Teaching Experience
+Spring 2017, 2018: tutorials and labs for the Cryptography and Security 3rd year undergraduate course, Faculty of Mathematics and Informatics, University of Bucharest
+
+Spring 2016: labs for the Cryptography and Security 3rd year undergraduate course, Faculty of Mathematics and Informatics, University of Bucharest
 
 [Link](url) and ![Image](src)
+
+## More
+With my colleagues at Bitdefender, we wrote two introductory blogposts:
+- [**Homomorphic Encryption: a Toy Implementation in Python**](https://bit-ml.github.io/blog/post/homomorphic-encryption-toy-implementation-in-python/)
+- [**Private Set Intersection from Homomorphic Encryption: A Python Implementation**](https://bit-ml.github.io/blog/post/private-set-intersection-an-implementation-in-python/)
 
 
 ### Jekyll Themes
