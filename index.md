@@ -1,26 +1,13 @@
-## Welcome to GitHub Pages
-Blabla
-You can use the [editor on GitHub](https://github.com/MirunaRosca/mirunarosca.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I obtained my Phd in informatics in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon] (http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé] (http://perso.ens-lyon.fr/damien.stehle/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Contact:** mirunarosca 'at' gmail 'dot' com ; mrosca 'at' bitdefender 'dot' com
+**Phd Thesis** [On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+## Publications
+- [*MPSign: A Signature from Small-Secret Middle-Product Learning with Errors*] (https://eprint.iacr.org/2020/198), with Shi Bai, Dipayan Das, Ryo Hiromasa, Amin Sakzad, Damien Stehlé, Ron Steinfeld and Zhenfei Zhang. In the proceedings of [PKC 2020] (https://pkc.iacr.org/2020/).
+- [*On the Ring-LWE and Polynomial-LWE problems*](https://eprint.iacr.org/2018/170.pdf), with Damien Stehlé and Alexandre Wallet . In the proceedings of [EUROCRYPT 2018](https://eurocrypt.iacr.org/2018/).
+- [*Middle-Product Learning With Errors*](https://eprint.iacr.org/2017/628.pdf), with Amin Sakzad, Damien Stehlé and Ron Steinfeld. In the proceedings of [CRYPTO 2017] (https://www.iacr.org/conferences/crypto2017/).
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
