@@ -1,5 +1,5 @@
-# About Me
-<img src="https://raw.githubusercontent.com/MirunaRosca/mirunarosca.github.io/main/MirunaRosca.jpeg" width="220" height="200" />
+## About Me
+<img src="https://raw.githubusercontent.com/MirunaRosca/mirunarosca.github.io/main/MirunaRosca.jpeg" align="right" width="220" height="200" />
 
 
 I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania and I have obtained my Phd in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon](http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle/).
@@ -8,8 +8,7 @@ I am interested in **post-quantum cryptography** and **privacy preserving techno
 [On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
 
 **Contact:** 
-- mirunarosca 'at' gmail 'dot' com 
-- mrosca 'at' bitdefender 'dot' com
+mirunarosca 'at' gmail 'dot' com ; mrosca 'at' bitdefender 'dot' com
 
 
 ## Publications
