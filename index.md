@@ -3,7 +3,7 @@
 
 
 
-I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania and I have obtained my Phd in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon](http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle/).
+I am interested in **post-quantum cryptography** and **privacy preserving technologies**. I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I got my PhD in November 2020, in the Crypto group of AriC team, LIP laboratory, [ENS de Lyon](http://www.ens-lyon.fr/), working under the supervision of [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle/).
 
 
 **Contact:** 
@@ -14,7 +14,7 @@ I am interested in **post-quantum cryptography** and **privacy preserving techno
 <a href="https://www.linkedin.com/in/miruna-rosca-042665206/"><img src="linkedin.jpg" width="35"> </a>
 <a href=" https://github.com/MirunaRosca"><img src="github.jpg" width="35"> </a>
 
-## Phd Thesis
+## PhD Thesis
 [On algebraic variants of Learning With Errors](https://tel.archives-ouvertes.fr/tel-03085029)
 
 ## Publications
@@ -42,7 +42,7 @@ I am interested in **post-quantum cryptography** and **privacy preserving techno
 - Sept. 2014: Vertex Cover Algebras of Weighted Graphs, The 22nd National School on Algebra, Bucharest, Romania
 
 ## Research Visits
-Jan. 2018: two weeks research visit hosted by Ron Steinfeld and Amin Sakzad, Faculty of Information Technology, Monash University, Melbourne, Australia: 
+Jan. 2018: two weeks research visit hosted by Ron Steinfeld and Amin Sakzad, Faculty of Information Technology, Monash University, Melbourne, Australia 
 
 ## Teaching Experience
 Spring 2017, 2018: tutorials and labs for the Cryptography and Security 3rd year undergraduate course, Faculty of Mathematics and Informatics, University of Bucharest
