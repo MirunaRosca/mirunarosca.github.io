@@ -32,7 +32,7 @@ I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), R
 - Aug. 2017: Middle-Product Learning with Errors, CRYPTO 2017, Santa Barbara, USA
 
 ## Talks at Seminars/ Workshops/ Summer schools
-- Jun. 2021: Private Set Intersection from Homomorphic Encryption: A Python Implementation, Cryptology and Security Seminar, University of Caen, France
+- Jun. 2021: Private Set Intersection from Homomorphic Encryption: A Python Implementation, Cryptology and Security Seminar, University of Caen, France, virtual
 - Dec. 2019: MPSign: A Signature from Small-Secret Middle-Product Learning with Errors, AriC Seminar, Lyon, France
 - July 2019: On the Middle-Product Learning With Errors Problem and its applications in cryptography, AriC Seminar, Lyon, France
 - May 2018: Middle-Product Learning with Errors, LATCA@BiCi: LATtice Crypto and Algorithms, Bertinoro, Italy
