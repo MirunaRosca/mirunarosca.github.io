@@ -13,7 +13,9 @@ I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), R
 
 <a href="https://www.linkedin.com/in/miruna-rosca-042665206/"><img src="linkedin.jpg" width="35"> </a>
 <a href="https://twitter.com/Miruna_Rosca"><img src="twitter.jpg" width ="50"></a> 
-<a href=" https://github.com/MirunaRosca"><img src="github.jpg" width="35"></a>
+<a href="https://github.com/MirunaRosca"><img src="github.jpg" width="35"></a>
+<a href="https://scholar.google.com/citations?user=y72EPQkAAAAJ&hl=en"><img src="googleScholar.png" width="35"></a>
+
 
 
 ## PhD Thesis
